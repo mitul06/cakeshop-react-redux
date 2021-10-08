@@ -9,6 +9,7 @@ import TotalItems from './components/TotalItem/TotalItems';
 
 
 function App() {
+
   return (
     <Provider store={store}>
       <div>
